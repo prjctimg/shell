@@ -1,4 +1,5 @@
 # Common variable types
+# Variables start with $
 
 # A string is a string of characters
 [string]$name = "Dean"
